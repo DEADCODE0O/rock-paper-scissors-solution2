@@ -59,4 +59,14 @@ Your Choice: [1]:Stone, [2]:Paper, [3]:Scissors? 1
           _________________________________________
 
 
+<img width="958" height="477" alt="image" src="https://github.com/user-attachments/assets/8043dd68-bc40-4226-8a76-707ff1158d21" />
+
+<img width="958" height="479" alt="image" src="https://github.com/user-attachments/assets/07463e69-46fe-405b-a70e-bb6e48f57c6b" />
+
+<img width="959" height="477" alt="image" src="https://github.com/user-attachments/assets/bc79528c-5578-4247-b00c-479c7fb251f3" />
+
+<img width="959" height="480" alt="image" src="https://github.com/user-attachments/assets/61132a42-167b-49bd-965f-a179ad0cc30a" />
+
+
+
 
