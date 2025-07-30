@@ -69,4 +69,13 @@ Your Choice: [1]:Stone, [2]:Paper, [3]:Scissors? 1
 
 
 
+## 👨‍💻 Author
 
+**Ahmed Al-Wazir**  
+📬 [GitHub Profile](https://github.com/DEADCODE0O)
+
+---
+
+## 📜 License
+
+This project is licensed for educational and personal use. Commercial use or redistribution without permission is not allowed.
